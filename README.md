@@ -16,4 +16,4 @@ FLEX >>>>[https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layo
 TO MAKE THE WEBSITE MORE COMFORTABLE FOR OUR USERS TO USE.
 *************************
 #SCREENSHOOTS
-<img src="https://github.com/Lamyaeltatawy/flower-shop/blob/main/Capture.PNG" width="500"/>
+<img src="https://github.com/Lamyaeltatawy/flower-shop/blob/main/Capture.PNG" width="550"/>
