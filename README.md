@@ -1,5 +1,5 @@
-# flower-shop
- front end project 
+# FLOWER-SHOP
+ ONLINE FLOWER SHOP (UNDER DEVELOPMENT)
  ***********************
  #SHORT EXPLANATION
 ONLINE FLOWER SHOP, INTEND TO HELPING YOU TO MAKE YOUR EVENTS MORE SPECIAL, HELPING YOU TO EXPRESS YOUR FEELINGS .
@@ -17,11 +17,23 @@ TO MAKE THE WEBSITE MORE COMFORTABLE FOR OUR USERS TO USE.
 *************************
 #SCREENSHOOTS
 <img src="https://github.com/Lamyaeltatawy/flower-shop/blob/main/Capture.PNG" width="550"/>
+*********************************************
+*********************************************
 <img src="https://github.com/Lamyaeltatawy/flower-shop/blob/main/Captures.PNG" width="550"/>
+***********************
+***************
 <img src="https://github.com/Lamyaeltatawy/flower-shop/blob/main/Captujre.PNG" width="550/n"/>
+********
+********
 <img src="https://github.com/Lamyaeltatawy/flower-shop/blob/main/Capj-ture.PNG" width="550/n"/>
+*********
+********
 <img src="https://github.com/Lamyaeltatawy/flower-shop/blob/main/Captugre.PNG" width="550/n"/>
+*********
+********
 <img src="https://github.com/Lamyaeltatawy/flower-shop/blob/main/Captaure.PNG" width="550/n"/>
+**********
+********************************************
 <img src="https://github.com/Lamyaeltatawy/flower-shop/blob/main/Capsature.PNG" width="550/n"/>
-
+*********************************************
 
